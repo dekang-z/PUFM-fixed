@@ -3,7 +3,7 @@
 This is a **bug-fixed and fully reproducible version** of the official PyTorch implementation for the paper:  
 **Efficient Point Cloud Upsampling via Flow Matching** (arXiv:2501.15286) by Zhi-Song Liu, Chenhang He, and Lei Li.
 
-> **Note:** This repository fixes all critical runtime bugs in the original release and has been verified to run out-of-the-box on **Python 3.9 + PyTorch 1.13 + CUDA 11.6**. See [Known Fixes](#known-fixes) for a complete list of patched issues.
+> **Note:** This repository fixes all critical runtime bugs in the original release and has been verified to run out-of-the-box on **Python 3.9 + PyTorch 1.13 + CUDA 11.6**. See [Known Fixes](## Known Fixes (Patched in This Repository)) for a complete list of patched issues.
 
 [Original Paper (arXiv)](https://arxiv.org/abs/2501.15286) | [Original Official Repository](https://github.com/Holmes-Alan/PUFM)
 
@@ -216,4 +216,4 @@ If you use this bug-fixed version in your research, please also consider citing 
 ---
 
 ## License
-This repository follows the MIT License, consistent with the original project. All core algorithm code is copyright © 2025 the original PUFM authors. The bug fixes and documentation improvements in this repository are copyright © 2026 Dekang Zhu.
+This repository follows the MIT License, consistent with the original project. All core algorithm code is copyright © 2025 the original PUFM authors.
