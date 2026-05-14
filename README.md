@@ -1,6 +1,7 @@
 # PUFM-fixed
 PUFM 项目的修复版，解决原代码运行 bug，对原作者中给出的复现步骤有所优化，可以调通。
-**Efficient Point Cloud Upsampling via Flow Matching**
+
+作者论文：**Efficient Point Cloud Upsampling via Flow Matching**
 
 [arXiv](https://arxiv.org/abs/2501.15286)
 
