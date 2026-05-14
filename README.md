@@ -176,4 +176,3 @@ If you find our project useful, please consider citing us:
 }
 ```
 put_2048_16X/gt_32768/     --up_rate 16     --ckpt_folder pretrained_model     --save_dir ./output/eval_16x_attn
-```
