@@ -32,7 +32,7 @@ conda activate pufm
 pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu116
 
 # Install dependencies
-pip install numpy==1.25.2 open3d==0.17.0 einops==0.3.2 scikit-learn==1.3.1 tqdm==4.62.3 h5py==3.6.0 plyfile
+pip install numpy==1.25.2 open3d==0.17.0 einops==0.3.2 scikit-learn==1.3.1 tqdm==4.62.3 h5py==3.6.0 plyfile ninja
 ```
 
 ### CUDA Extension Setup
